@@ -1945,6 +1945,7 @@
 		.image img {
 			border-radius: 3px;
 			display: block;
+			max-width: 100%
 		}
 
 		.image.left {
